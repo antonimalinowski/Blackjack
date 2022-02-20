@@ -4,3 +4,7 @@ gc.*
 *.bin
 *.properties
 *.bat
+*.xml
+*.gitignore
+*.jar
+gradlew
