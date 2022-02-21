@@ -8,3 +8,15 @@ gc.*
 *.gitignore
 *.jar
 gradlew
+/build/classes/java/main/com/antoni/blackjack/Card$1.class
+/build/classes/java/main/com/antoni/blackjack/Card.class
+/build/classes/java/main/com/antoni/blackjack/Rank.class
+/build/classes/java/main/com/antoni/blackjack/Suit.class
+/build/classes/java/test/com/antoni/blackjack/CardTest.class
+/build/reports/tests/test/classes/com.antoni.blackjack.CardTest.html
+/build/reports/tests/test/css/base-style.css
+/build/reports/tests/test/css/style.css
+/build/reports/tests/test/js/report.js
+/build/reports/tests/test/packages/com.antoni.blackjack.html
+/build/reports/tests/test/index.html
+/build/test-results/test/binary/output.bin.idx
